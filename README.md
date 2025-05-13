@@ -1,1 +1,3 @@
 # NutriFridge
+
+Designing and prototyping a smart fridge monitoring system using a Raspberry Pi 4 and Pi Camera to analyze food availability in real-time. The system leverages computer vision to identify items within a refrigerator, track consumption patterns, and suggest optimized grocery lists based on remaining ingredients and user preferences. Aimed at reducing household food waste and promoting healthier eating habits through personalized recommendations and intelligent meal planning. Current development includes object detection, inventory logging, and integration with a mobile interface for easy user access.
