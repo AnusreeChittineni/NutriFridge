@@ -1,7 +1,7 @@
 # Config
 $bootPath = "D:\"  # Change this to your SD card's boot drive letter
-$wifiSSID = "VZ_104MAVER"
-$wifiPassword = "VaKis-!10-mayFNA@23"
+$wifiSSID = "YOUR_WIFI_SSID"
+$wifiPassword = "YOUR_WIFI_PASSWORD"
 $countryCode = "US"
 
 # Enable SSH
